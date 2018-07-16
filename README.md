@@ -1,6 +1,8 @@
 # languagelayer-java-client
 This is a java client library to consume the [languagelayer API](https://languagelayer.com/).
 
+## Features
+
 Some of the features of the API are:
 
 * Powerful language detection JSON API for Developers
